@@ -6,3 +6,5 @@ div.jq-toast-wrap{display:none!important;}
 .alert{display:none!important;}
 #related{display:none!important;}
 #yalayi{display:none!important;}
+.ayx[style^="position: fixed;bottom"]{display:none!important;}
+.ayx[style="display:block;"]{display:none!important;}
