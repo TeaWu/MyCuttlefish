@@ -19,7 +19,7 @@
 
 [mitm]
 
-hostname=appwk.baidu.com
+hostname=api.bspapp.com
 
 ***********************************/
 
